@@ -14,4 +14,5 @@ The program will assume only whole number values are input, that the duration is
 Exercise: Write a complete set of Black Box test cases (equivalence classes and boundary value) for testing of the program which solves the problem above. Create a table like the one below.  Include a complete description field for the purpose of the each test case.
 
 Source: http://users.csc.calpoly.edu/~jdalbey/206/Assign/BBtesthwk.html?fbclid=IwAR0j0h2mz5vrfAKO5E68Z57vhKRaQpjqS4PUrN3V4W-DhU0Vkueni3KqYQ0
+
 Detailed specification: https://docs.google.com/document/d/1C6kOkTACY66cl3yU-WqHkmePvc4FV4NTLVjLpPqFYTw/edit?usp=sharing
