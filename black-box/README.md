@@ -1,5 +1,5 @@
 # black-box testing
-<h2> Problem <h2>
+Problem
   
 The New Telephone Company has the following rate structure for long distance calls:
   - Any call started at or after 6:00 p.m. (1800 hours) but before 8:00 a.m. (0800 hours) is discounted 50%.
