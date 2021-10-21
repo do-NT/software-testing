@@ -5,7 +5,7 @@ The New Telephone Company has the following rate structure for long distance cal
   - Any call started at or after 6:00 p.m. (1800 hours) but before 8:00 a.m. (0800 hours) is discounted 50%.
   - Any call started at or after 8:00 a.m. (0800 hours) but before 6:00 p.m. (1800 hours) is charged full price.
   - All calls are subject to a 4% Federal tax.
-  - The regular rate for a call is $0.40 per minute.
+  - The regular rate for a call is $0.35 per minute.
   - Any call longer than 60 minutes receives a 15% discount on its cost (after any other discount is subtracted but before tax is added).
 
 A computer program reads the start time for a call based on a 24-hour clock and the length of the call. The gross cost (before any discounts or tax) is printed followed by the net cost (after discounts are deducted and tax is added).
